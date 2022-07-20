@@ -18,8 +18,10 @@ f12 laptop size content sucks
 
 -- nav bar --
 no hambac, anchored on top
-
+Navigace centerovaná uprostřed
 -- landing --
+
+
 
 banner - mensi, odelit menu od contentu, zaujmout? slogan neco jako https://revizehrist.info/
 slogan - "BEZPEČNOST PRO VAŠE DĚTI
