@@ -9,7 +9,7 @@
 */
 
 		.big{
-			font-size: 10em;			
+			font-size: 10em;
 		}
 
 		.medium{
@@ -30,7 +30,7 @@
 
 		.border {
 			border: 3px;
-			border-style: solid;			
+			border-style: solid;
 		}
 
 		.pad-out{
@@ -44,7 +44,7 @@
 			align-items: center;
 			left: 50%;
 			top: 50vh;
-    		-webkit-transform: translate(-50%, -50%); 
+    		-webkit-transform: translate(-50%, -50%);
 		}
 
 		.circle {
@@ -62,7 +62,7 @@
 		}
 
 		#start:hover{
-			background-color: rgb(0,0,0,0.5); 
+			background-color: rgb(0,0,0,0.5);
 		}
 
 /* Reset */
@@ -2728,7 +2728,7 @@
 /* Wrapper */
 
 	.wrapper {
-		padding: 6rem 0 4rem 0 ;
+		padding: 2rem 0 2rem 0 ;
 		position: relative;
 		margin: 0;
 	}
@@ -2999,6 +2999,7 @@
 				.wrapper.style2 button.alt,
 				.wrapper.style2 .button.alt {
 					background-color: transparent;
+
 					box-shadow: inset 0 0 0 2px rgba(0, 0, 0, 0.15);
 					color: #000 !important;
 				}
@@ -3157,13 +3158,14 @@
 		.wrapper.style3 {
 			background-color: #000;
 			color: #bfbfbf;
-			background-image: url(../../images/bg.jpg);
+			background-image: url(../../images/bg01.jpg);
 			background-size: cover;
 			background-attachment: fixed;
 			background-position: center;
 			position: relative;
 		}
-
+	sition: relative;
+		}
 			.wrapper.style3 input, .wrapper.style3 select, .wrapper.style3 textarea {
 				color: #ffffff;
 			}
@@ -3953,7 +3955,7 @@
 			}
 
 /* Menu */
-	
+
 	#menu {
 		-moz-transform: translateX(20rem);
 		-webkit-transform: translateX(20rem);
