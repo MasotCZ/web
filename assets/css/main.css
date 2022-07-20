@@ -3773,7 +3773,7 @@
 		left: 0;
 		line-height: 3.25em;
 		position: fixed;
-		text-align: right;
+		text-align: center;
 		top: 0;
 		width: 100%;
 		z-index: 10001;
@@ -3932,7 +3932,6 @@
 			line-height: inherit;
 			margin: 0;
 			padding: 0;
-			position: absolute;
 			top: 0;
 		}
 
@@ -4127,8 +4126,8 @@
 
 		.banner.half {
 			padding: 0;
-			min-height: 50vh;
-			height: 50vh !important;
+			min-height: 20vh;
+			height: 20vh !important;
 		}
 
 		.banner:after {
@@ -4311,18 +4310,18 @@
 
 			.banner.full {
 				padding: 0;
-				min-height: 75vh;
-				height: 75vh !important;
+				min-height: 20vh;
+				height: 20vh !important;
 			}
-
+			
 		}
 
 		@media screen and (max-width: 980px) {
 
 			.banner.full {
 				padding: 0;
-				min-height: 50vh;
-				height: 50vh !important;
+				min-height: 20vh;
+				height: 20vh !important;
 			}
 
 			.banner > article {
