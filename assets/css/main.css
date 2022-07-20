@@ -2728,7 +2728,7 @@
 /* Wrapper */
 
 	.wrapper {
-		padding: 6rem 0 4rem 0 ;
+		padding: 2rem 0 2rem 0 ;
 		position: relative;
 		margin: 0;
 	}
@@ -4121,8 +4121,8 @@
 
 		.banner.full {
 			padding: 0;
-			min-height: 100vh;
-			height: 100vh !important;
+			min-height: 20vh;
+			height: 20vh !important;
 		}
 
 		.banner.half {

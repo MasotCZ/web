@@ -8,3 +8,29 @@ veta co zaujme na prvni pohled
 rozdelit bloky
 ikony
 uvest cenu
+
+------------NEW--------------
+
+hambac ne, checknout scaling 
+
+to fix:
+f12 laptop size content sucks
+
+-- nav bar --
+no hambac, anchored on top
+
+-- landing --
+
+banner - mensi, odelit menu od contentu, zaujmout? slogan neco jako https://revizehrist.info/
+slogan - "BEZPEČNOST PRO VAŠE DĚTI
+Nabízíme Vám revize dětských hřišť přímo od námi pověřených revizních techniků, u kterých máme jistotu, že jsou dostatečně schopní a zkušení, aby zajistili jejich 100% bezpečnost." - constant na text (toh banneru)
+
+
+
+-- content --
+
+
+
+-- footer -- 
+
+banner - kontakt ?
